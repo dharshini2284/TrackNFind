@@ -32,7 +32,7 @@ TrackNFind is a location-based mobile application that allows users to drop pins
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/divyaprabha1805/TrackNFind.git
+   git clone https://github.com/dharshini2284/TrackNFind.git
    cd TrackNFind
    ```
 2. Install dependencies:
@@ -75,6 +75,6 @@ TrackNFind is a location-based mobile application that allows users to drop pins
 
 ## Contact
 For any queries, feel free to reach out:
-- Email: divyabb1805@gmail.com
-- GitHub: [Divya Prabha BB](https://github.com/divyaprabha1805)
+- Email: 004dharshkumar@gmail.com
+- GitHub: [Dharshini A S](https://github.com/dharshini2284)
 
